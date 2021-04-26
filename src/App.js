@@ -9,8 +9,9 @@ export default function App() {
 <p>
   This project was made by Lina Pekar: 
      <a href="https://github.com/carpek/react-weather-app-new" target="_blank"></a>
-    </div>
+    
     </p>
+    </div>
   );
 }
 
